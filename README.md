@@ -2,6 +2,8 @@
 CST-150 O500
 C# Programming 1
 
+Video Walk through: https://screencast-o-matic.com/watch/c3joflVTnO0
+
 This milestone has three parts:
 
 Part 1: Use a UML class diagram to model your inventory manager class. This class must use an array to manage a collection of inventory items.
